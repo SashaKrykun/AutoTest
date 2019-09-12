@@ -1,0 +1,1 @@
+"[{\n  \"owner\": \"m_owner\",\n  \"schedule\": \"m_schedule\",\n  \"email\": \"m_email\",\n  \"source_dataset_table\": \"m_source_dataset_table\",\n  \"s3_connection_id\": \"m_s3_connection_id\",\n  \"s3_target_bucket\": \"m_s3_target_bucket\",\n  \"s3_target_directory\": \"m_s3_target_directory\"\n}]"
